@@ -484,8 +484,9 @@ public void readJtableForCod(String cod){
 
     private void JBT_VoltarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_JBT_VoltarActionPerformed
 Menu menu = new Menu();
-menu.setVisible(true);
 dispose();
+menu.setVisible(true);
+
     }//GEN-LAST:event_JBT_VoltarActionPerformed
 
     private void JTF_CodActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_JTF_CodActionPerformed
